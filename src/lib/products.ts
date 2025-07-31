@@ -16,7 +16,7 @@ export const products: Product[] = [
     description:
       "Torta húmeda de chocolate, cubierta con ganache cremoso. Un clásico irresistible.",
     image:
-      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1505250469679-203ad9ced0cb?auto=format&fit=crop&w=600&q=80", // Chocolate cake
     price: "$18.000",
   },
   {
@@ -25,7 +25,7 @@ export const products: Product[] = [
     description:
       "Croissant hojaldrado y mantequilloso, recién horneado cada mañana.",
     image:
-      "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=600&q=80", // Croissant
     price: "$3.000",
   },
   {
@@ -33,7 +33,7 @@ export const products: Product[] = [
     name: "Tarta de Fresas",
     description: "Base crocante rellena de crema pastelera y fresas frescas.",
     image:
-      "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=600&q=80", // Strawberry tart
     price: "$5.000",
   },
   {
@@ -42,7 +42,7 @@ export const products: Product[] = [
     description:
       "Cheesecake suave con cobertura de maracuyá natural, perfecto para los amantes de los sabores tropicales.",
     image:
-      "https://images.unsplash.com/photo-1505250469679-203ad9ced0cb?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=600&q=80", // Cheesecake
     price: "$7.000",
   },
   {
@@ -51,7 +51,7 @@ export const products: Product[] = [
     description:
       "Brownie de chocolate intenso, húmedo y con nueces. Ideal para acompañar un café.",
     image:
-      "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/es/fotos/un-monton-de-brownies-encima-de-un-plato-blanco-LjtviHokbr4", // Brownie
     price: "$4.000",
   },
 ];

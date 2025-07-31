@@ -32,7 +32,7 @@ export default function ZigZagProduct({
         <p className="text-gray-700 text-base">{product.description}</p>
         <span className="text-pink-600 font-bold text-lg">{product.price}</span>
         <a
-          href={`https://wa.me/?text=Hola!%20Quiero%20pedir%20el%20producto:%20${encodeURIComponent(
+          href={`https://wa.me/573186110790/?text=Hola!%20Quiero%20pedir%20el%20producto:%20${encodeURIComponent(
             product.name
           )}`}
           target="_blank"
